@@ -1,3 +1,8 @@
+# Observação:
+# Fiz com as entradas inseridas manualmente, mas dá pra automatizar usando 
+# dicionário e o método .inputs (no plural) no objeto ControlSystemSimulation
+# que nesse caso eu chamei de "output(...)"
+
 import numpy as np
 import skfuzzy as fuzzy
 from skfuzzy import control as ctrl
